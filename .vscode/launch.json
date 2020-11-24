@@ -1,0 +1,19 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "flutter_twitter_api",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--dart-define=apiKey=tBWdyhlHrMS3ppVqyJhiNRb3a",
+                "--dart-define=apiKeySecret=aGQRyViwP7v3YIJq31W95VU0WdehU7Y87npWUTXYbhhpveHhwS",
+                "--dart-define=accessToken=777041155909451776-s8yTqd4SyU7W8v7CbdtjVhYQ7xBzndd",
+                "--dart-define=accessTokenSecret=ERvt6aqau96PltYCYmzDnUTGdL4z13iVxVEgRsGhg07KB"
+            ]
+        }
+    ]
+}
